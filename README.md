@@ -1,4 +1,13 @@
 # RCB-Lap-World
+**Development Team (RCB - Rajasekar, Charles Stephen Raj, Balaji):**
+
+The development team responsible for this project includes:
+
+- **Rajasekar**
+- **Charles Stephen Raj**
+- **Balaji**
+
+We worked together to create and complete this project.
 
 Certainly, here are the detailed execution steps for your Laptop Management System project:
 
