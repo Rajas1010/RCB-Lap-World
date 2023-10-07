@@ -1,5 +1,5 @@
 # RCB-Lap-World
-**Development Team (RCB - Rajasekar, Charles Stephen Raj, Balaji):**
+**Development Team (RCB - Rajasekar, Charles StephenRaj, Balaji):**
 
 The development team responsible for this project includes:
 
